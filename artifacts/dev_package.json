@@ -1,0 +1,55 @@
+{
+	"id": "bfa174f9-0d27-ee11-907e-000d3a661202",
+	"createdAt": "2023-07-20T14:59:07.843Z",
+	"createdBy": "terry.avgenikou@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/TerryakiSauce/fluffy-robot.git"
+	},
+	"name": "DnD",
+	"description": null,
+	"ver": "23.7.20.1513",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "c2a40aaa-2d22-ee11-a9bb-000d3ada9c9b",
+			"application": "dragndrop",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "25f2ee9f-4425-ee11-a9bb-000d3ada9c9b",
+			"application": "dragndrop_ordering",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
