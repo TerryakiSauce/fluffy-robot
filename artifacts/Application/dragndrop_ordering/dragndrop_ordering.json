@@ -5,7 +5,7 @@
 	"objects": [
 		{
 			"fieldNo": "eb358826-cf18-4cd9-b23f-468e1fbfc01a",
-			"fieldName": "oApp",
+			"fieldName": "App",
 			"fieldParent": 0,
 			"fieldType": "sap.m.App",
 			"script": "",

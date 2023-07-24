@@ -7,7 +7,7 @@
 	},
 	"name": "DnD",
 	"description": null,
-	"ver": "23.7.20.1516",
+	"ver": "23.7.24.151",
 	"enableCICD": true,
 	"apps": [
 		{
