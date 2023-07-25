@@ -10,7 +10,7 @@ import * as fs from 'fs';
 const serverUrl = process.env.DXP_OE_SERVER_URL;
 const serverToken = process.env.DXP_OE_SERVER_TOKEN;
 const githubToken = process.env.GITHUB_TOKEN;
-
+const hateste = 5;
 const deleteUrl = (server: string) => `${server}/api/functions/Package/DelPackageAndArtifacts`
 const cloneUrl = (server: string) => `${server}/api/functions/Package/CloneRepository`;
 const getUrl = (server: string) => `${server}/api/functions/Package/Get`;
