@@ -20,7 +20,7 @@
 	"entitySets": [],
 	"apis": [],
 	"name": "time",
-	"ver": "23.12.7.1359",
+	"ver": "23.12.7.1516",
 	"description": null,
 	"content": "file:///content.js",
 	"useAsGlobalScript": false,

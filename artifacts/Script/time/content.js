@@ -7,6 +7,7 @@ const now = moment();
 // Format and display the current date and time
 console.log('Current Date and Time:', now.format('YYYY-MM-DD HH:mm:ss'));
 
+console.log('Current Date and Time:', now.format('YYYY-MM-DD'));
 
 // example.js
 const ss = modules.simpleStatistics;
