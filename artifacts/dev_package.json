@@ -1,0 +1,53 @@
+{
+	"id": "dbe280a1-d8a1-4c0a-a480-80c5feec476e",
+	"createdAt": "2023-12-13T17:17:37.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/TerryakiSauce/fluffy-robot.git"
+	},
+	"name": "newone",
+	"description": null,
+	"ver": "23.12.13.1819",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "7ef57010-b7d4-49dc-9b89-69643bfce9b8",
+			"name": "junk",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "85513420-c466-48d9-a04d-ce7f88ef22aa",
+			"name": "badpractice",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

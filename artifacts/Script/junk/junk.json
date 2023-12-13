@@ -1,0 +1,27 @@
+{
+	"id": "7ef57010-b7d4-49dc-9b89-69643bfce9b8",
+	"createdAt": "2023-12-13T17:16:42.000Z",
+	"createdBy": "admin",
+	"globalScripts": [],
+	"externalModules": [
+		{
+			"id": "cd197c57-782d-435e-b469-ea3888c990c7",
+			"name": "underscore",
+			"contextname": "underscore",
+			"path": "/Users/terryavgenikos/Desktop/p9/planet9-macos-v23.10.0/NPM/node_modules/underscore"
+		}
+	],
+	"entitySets": [],
+	"apis": [],
+	"name": "junk",
+	"ver": "23.12.13.1817",
+	"description": null,
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "85513420-c466-48d9-a04d-ce7f88ef22aa",
+	"package": "dbe280a1-d8a1-4c0a-a480-80c5feec476e"
+}
