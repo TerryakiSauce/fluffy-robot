@@ -1,7 +1,7 @@
 // example.js
 const moment = modules.moment;
 
-// Get the current date and time
+// Get the current date and time gfergfegegeg
 const now = moment();
 
 // Format and display the current date and time
